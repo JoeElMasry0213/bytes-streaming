@@ -6,6 +6,8 @@
 #include <string>
 #include <iostream>
 #include <fstream>
+#include "Cheat.h"
+#include "mapper.h"
 
 namespace Utilities
 {
